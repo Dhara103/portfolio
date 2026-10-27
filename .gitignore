@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+.venv/
+venv/
+__pycache__/
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Vercel deployment cache
+.vercel/
+
+# Subproject folders (already maintained in individual repositories)
+/Correcting grade/
+/Factorial/
+/Quiz/
+/Reading_list/
+/Struc-to-dict/
+/fibonacci/

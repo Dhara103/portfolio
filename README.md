@@ -3,8 +3,8 @@
 Welcome to the personal profile and portfolio website of **Dhara Mittal**, an undergraduate Computer Science student specializing in Artificial Intelligence and Machine Learning.
 
 ## 🚀 Live Demo
-- **Portfolio Website:** Deployed on Vercel
-- **GitHub Profile:** [https://github.com/Dhara103](https://github.com/Dhara103)
+- **Live Deployment (Vercel):** [https://instant-squall-ekngfkw.tmp.now](https://instant-squall-ekngfkw.tmp.now)
+- **GitHub Repository:** [https://github.com/Dhara103/portfolio](https://github.com/Dhara103/portfolio)
 
 ## 📌 Featured Projects
 - [**FIBONACCI**](https://github.com/Dhara103/fibonnaci) — High-performance Fibonacci Sequence Optimizer benchmarking Memoization (Top-Down DP), Tabulation (Bottom-Up DP), and Matrix Exponentiation.
